@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "file-system": "^2.2.2"
-  }
+    "file-system": "^2.2.2",
+    "inquirer": "^8.2.0"
+  },
+  "name": "portfolio-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahoward21/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahoward21/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Ahoward21/portfolio-generator#readme"
 }
